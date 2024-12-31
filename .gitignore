@@ -1,5 +1,7 @@
 .DS_Store
 chroma_db/
+dataset
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

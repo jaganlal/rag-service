@@ -11,8 +11,5 @@ fastapi
 uvicorn
 sentence_transformers
 langchain-huggingface
-
-# openai faiss-cpu rank_bm25 flashrank langchain_groq groq
-# %pip install -qU langchain-groq
-# %pip install -qU langchain-community
-# %pip install -qU sentence-transformers
+llama-parse
+unstructured[md]
