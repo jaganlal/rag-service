@@ -13,3 +13,9 @@ sentence_transformers
 langchain-huggingface
 llama-parse
 unstructured[md]
+flashrank
+rank_bm25
+
+faiss-cpu
+langchain_groq
+groq
