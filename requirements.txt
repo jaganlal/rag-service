@@ -21,3 +21,6 @@ langchain_groq
 groq
 
 whoosh-reloaded
+
+routellm[serve,eval]
+rich
