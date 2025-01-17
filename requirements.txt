@@ -19,3 +19,5 @@ rank_bm25
 faiss-cpu
 langchain_groq
 groq
+
+whoosh-reloaded
